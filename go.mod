@@ -1,4 +1,4 @@
-module github.com/FiReBeNdEr07/caddy-header.git
+module github.com/FiReBeNdEr07/caddy-header
 
 go 1.17
 
